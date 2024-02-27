@@ -1,0 +1,19 @@
+input {
+    border-radius: 15px;
+    border: 2px dashed #5e707d;
+    font-size: 16px;
+    line-height: 1;
+    outline: none;
+    font-weight: bold;
+    color: #d78d8d;
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(229, 185, 238);
+  }
+    
+  p {
+    color: rgb(118, 150, 118);
+    font-weight: bold;
+    ;
+    
+  }
+  
